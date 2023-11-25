@@ -1,0 +1,167 @@
+
+
+img {
+    max-width: 100%;
+}
+
+
+.text {
+    font-family: sans-serif;
+    vertical-align: middle;
+    text-align: center; 
+    font-size: xxx-large; 
+    color: white;
+   
+}
+
+header {
+    background: url(images/BonesLeft.gif) left no-repeat, url(images/BonesRight.gif) right no-repeat;
+}
+
+.goback {
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: hsl(0, 1%, 26%);
+    color: hsl(0, 0%, 100%);
+    font-size: 32px;
+    text-decoration: none;
+    padding: 10px 15px;
+    cursor: pointer; 
+    border-width: 1px;
+    border-color: hsl(0, 0%, 100%);
+    border: solid;
+}
+
+.goback:hover{
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: hsl(0, 0%, 13%);
+    color: hsl(0, 0%, 68%);
+    font-size: 32px;
+    text-decoration: none;
+    padding: 10px 15px;
+    cursor: pointer; 
+    border-width: 1px;
+    border-color: hsl(0, 0%, 100%);
+    border: solid;
+}
+.goback:active{
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: hsl(0, 1%, 29%);
+    color: hsl(0, 0%, 61%);
+    font-size: 32px;
+    text-decoration: none;
+    padding: 10px 15px;
+    cursor: pointer; 
+    border-width: 1px;
+    border-color: hsl(0, 0%, 100%);
+    border: solid;
+}
+
+.buttns {
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: hsl(0, 1%, 26%);
+    color: hsl(0, 0%, 100%);
+    font-size: 32px;
+    text-decoration: none;
+    padding: 10px 15px;
+    cursor: pointer; 
+    border-width: 1px;
+    border-color: hsl(0, 0%, 100%);
+    border: solid;
+    align-content: center;
+}
+
+.buttns:hover{
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: hsl(0, 0%, 13%);
+    color: hsl(0, 0%, 68%); 
+    font-size: 32px;
+    text-decoration: none;
+    padding: 10px 15px;
+    cursor: pointer; 
+    border-width: 1px;
+    border-color: hsl(0, 0%, 100%);
+    border: solid;
+    align-content: center;
+}
+.buttns:active{
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: rgb(75, 74, 74);
+    color: rgb(156, 156, 156);
+    font-size: 32px;
+    text-decoration: none;
+    padding: 10px 15px;
+    cursor: pointer; 
+    border-width: 1px;
+    border-color: white;
+    border: solid;
+}
+
+#magic {
+    vertical-align: middle;
+    text-align: center;
+}
+
+#Scratch {
+    text-align: center;
+}
+
+#d2 {
+    margin-left: 10px;
+}
+
+/*Colored Buttons "index.html"*/
+
+.yel {
+    color: hsl(60, 100%, 50%);
+    background-color: hsl(43, 89%, 15%);
+}
+
+.yel:hover {
+    color: hsl(60, 100%, 35%);
+    background-color: hsl(43, 89%, 15%);
+}
+
+.yel:active {
+    color: hsl(60, 100%, 35%);
+    background-color: hsl(43, 84%, 31%);
+}
+
+.mag {
+    color: hsl(300, 100%, 50%); 
+    background-color:hsl(271, 76%, 20%);
+}
+
+.mag:hover {
+    color: hsl(300, 100%, 35%); 
+    background-color:hsl(271, 76%, 15%);
+}
+
+.mag:active {
+    color: hsl(300, 100%, 35%); 
+    background-color:hsl(271, 76%, 31%);
+}
+
+.blu {
+    color: hsl(231, 91%, 60%);
+    background-color: hsl(240, 100%, 20%);
+}
+
+.blu:hover {
+    color: hsl(231, 91%, 45%);
+    background-color: hsl(240, 100%, 15%);
+}
+
+.blu:active {
+    color: hsl(231, 91%, 35%);
+    background-color: hsl(240, 100%, 20%);
+}
+
+img.discord:hover {
+    filter: brightness(80%) ;
+}
